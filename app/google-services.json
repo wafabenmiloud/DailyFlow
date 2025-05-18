@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758209769765",
+    "project_id": "taskmg-db5a9",
+    "storage_bucket": "taskmg-db5a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758209769765:android:719198cd0df6dbfcfdeacc",
+        "android_client_info": {
+          "package_name": "com.example.dailyflow_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdHNMjsf-QTNk_87CYGPn0J02um8mmIw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
